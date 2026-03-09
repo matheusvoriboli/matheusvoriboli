@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/ribolimatheus" target="blank"><img src="https://img.shields.io/twitter/follow/ribolimatheus?logo=twitter&style=for-the-badge" alt="ribolimatheus" /></a> </p>
 
-- 🔭 I’m currently working on **GL Homes**
-
-- 💬 Ask me about **React, Vue or anything related to Javascript**
-
 - 📫 How to reach me: **matheusvor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
